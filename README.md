@@ -9,7 +9,7 @@ Passionate about web development and interested in systems programming. Apprecia
 - **Tools:** Git, AWS, Linux, Neovim, Postman
 
 ## 📫 Connect
-- Email: nathanmandell99@gmail.com
+- nathanmandell99@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/nathan-mandell-a667962a1/)
 
 _Columbia University '26 - Computer Science_
