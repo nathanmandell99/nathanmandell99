@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Nathan
 
-<!--
-**nathanmandell99/nathanmandell99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer and Computer Science student at Columbia University. Passionate about web development and interested in systems programming. Appreciator of Vim. Trying to become fluent in Italian.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Java, Python, C, JavaScript
+- **Frontend:** React, Next.js, Vite, HTML/CSS
+- **Backend:** Django, FastAPI, MySQL
+- **Tools:** Git, AWS, Linux, Neovim, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect
+- Email: nathanmandell99@gmail.com
+- Location: New York, NY
+- [LinkedIn](https://www.linkedin.com/in/nathan-mandell-a667962a1/)
+
+_Columbia University '26 - Computer Science_
