@@ -10,7 +10,6 @@ Full-stack developer and Computer Science student at Columbia University. Passio
 
 ## 📫 Connect
 - Email: nathanmandell99@gmail.com
-- Location: New York, NY
 - [LinkedIn](https://www.linkedin.com/in/nathan-mandell-a667962a1/)
 
 _Columbia University '26 - Computer Science_
