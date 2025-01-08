@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nathan
 
-Full-stack developer and Computer Science student at Columbia University. Passionate about web development and interested in systems programming. Appreciator of Vim. Trying to become fluent in Italian.
+Passionate about web development and interested in systems programming. Appreciator of Vim. Trying to become fluent in Italian.
 
 ## 🛠️ Tech Stack
 - **Languages:** Java, Python, C, JavaScript
