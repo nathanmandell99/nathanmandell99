@@ -2,24 +2,21 @@
 
 CS @ Columbia '26 · Web development + systems programming · Fedora Linux user · Vim enjoyer · Learning Italian 🇮🇹
 
----
-
 ## Currently
-- **Software Engineer Intern, Techneosis** — *New York, NY · Jul 2025–Present*
+- **Software Engineer Intern, Techneosis** 
   This is a full-stack role, but I'm mostly on the React Native mobile app right now.
 
-- **Research Assistant — [Hyperlight Micro Virtual Machine Manager](https://github.com/hyperlight-dev/hyperlight)**
+- **Research Assistant — [Hyperlight Micro Virtual Machine Manager](https://github.com/hyperlight-dev/hyperlight)**  
   Mostly doing porting and benchmarking work in Rust.
 
----
+- **CS Undergrad @ Columbia**  
+  Right now I'm taking Distributed Systems, CS Theory, Calc-Based Stats, and Ancient Philosophy.
 
 ## Tech Stack
 **Languages:** Python, Java, C, C++, Rust, JavaScript/TypeScript  
 **Frontend:** React, Next.js, Vite, HTML/CSS  
 **Backend:** Django, FastAPI, ASP.NET, MySQL  
 **Tools:** Git, GitHub, AWS (EC2), Linux, Neovim, Expo, Postman
-
----
 
 ## Connect
 - **Email:** nathanmandell99@gmail.com  
