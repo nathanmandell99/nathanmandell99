@@ -12,6 +12,8 @@ CS @ Columbia '26 · Web development + systems programming · Fedora Linux user 
 - **CS Undergrad @ Columbia**  
   Right now I'm taking Distributed Systems, CS Theory, Calc-Based Stats, and Ancient Philosophy.
 
+- **Reading Judith Herrin's [History of Byzantium](https://press.princeton.edu/books/paperback/9780691143699/byzantium).
+
 ## Tech Stack
 **Languages:** Python, Java, C, C++, Rust, JavaScript/TypeScript  
 **Frontend:** React, Next.js, Vite, HTML/CSS  
