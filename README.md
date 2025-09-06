@@ -20,6 +20,6 @@ CS @ Columbia '26 · Web development + systems programming · Fedora Linux user 
 
 ## Connect
 - **Email:** nathanmandell99@gmail.com  
-- **Portfolio:** https://nathanmandell99.github.io/portfolio/  
+- **Resume:** https://nathanmandell99.github.io/resume/  
 - **LinkedIn:** https://www.linkedin.com/in/nathan-mandell-a667962a1/  
 - **GitHub:** https://github.com/nathanmandell99
