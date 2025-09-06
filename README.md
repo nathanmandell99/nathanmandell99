@@ -1,15 +1,28 @@
 # 👋 Hi, I'm Nathan
 
-Passionate about web development and interested in systems programming. Appreciator of Vim. Trying to become fluent in Italian.
+CS @ Columbia '26 · Web development + systems programming · Fedora Linux user · Vim enjoyer · Learning Italian 🇮🇹
 
-## 🛠️ Tech Stack
-- **Languages:** Java, Python, C, JavaScript
-- **Frontend:** React, Next.js, Vite, HTML/CSS
-- **Backend:** Django, FastAPI, MySQL
-- **Tools:** Git, AWS, Linux, Neovim, Postman
+---
 
-## 📫 Connect
-- nathanmandell99@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/nathan-mandell-a667962a1/)
+## Currently
+- **Software Engineer Intern, Techneosis** — *New York, NY · Jul 2025–Present*
+  This is a full-stack role, but I'm mostly on the React Native mobile app right now.
 
-_Columbia University '26 - Computer Science_
+- **Research Assistant — [Hyperlight Micro Virtual Machine Manager](https://github.com/hyperlight-dev/hyperlight)**
+  Mostly doing porting and benchmarking work in Rust.
+
+---
+
+## Tech Stack
+**Languages:** Python, Java, C, C++, Rust, JavaScript/TypeScript  
+**Frontend:** React, Next.js, Vite, HTML/CSS  
+**Backend:** Django, FastAPI, ASP.NET, MySQL  
+**Tools:** Git, GitHub, AWS (EC2), Linux, Neovim, Expo, Postman
+
+---
+
+## Connect
+- **Email:** nathanmandell99@gmail.com  
+- **Portfolio:** https://nathanmandell99.github.io/portfolio/  
+- **LinkedIn:** https://www.linkedin.com/in/nathan-mandell-a667962a1/  
+- **GitHub:** https://github.com/nathanmandell99
