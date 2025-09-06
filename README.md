@@ -7,12 +7,12 @@ CS @ Columbia '26 · Web development + systems programming · Fedora Linux user 
   This is a full-stack role, but I'm mostly working on a React Native mobile app right now.
 
 - **Research Assistant — [Hyperlight Micro Virtual Machine Manager](https://github.com/hyperlight-dev/hyperlight)**  
-  Mostly doing porting and benchmarking work in Rust.
+  Doing porting and benchmarking work in Rust.
 
 - **CS Undergrad @ Columbia**  
   Right now I'm taking Distributed Systems, CS Theory, Calc-Based Stats, and Ancient Philosophy.
 
-- **Reading Judith Herrin's [History of Byzantium](https://press.princeton.edu/books/paperback/9780691143699/byzantium).
+- **Reading Judith Herrin's [History of Byzantium](https://press.princeton.edu/books/paperback/9780691143699/byzantium).**
 
 ## Tech Stack
 **Languages:** Python, Java, C, C++, Rust, JavaScript/TypeScript  
