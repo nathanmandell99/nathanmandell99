@@ -4,7 +4,7 @@ CS @ Columbia '26 · Web development + systems programming · Fedora Linux user 
 
 ## Currently
 - **Software Engineer Intern, Techneosis**  
-  This is a full-stack role, but I'm mostly on a React Native mobile app right now.
+  This is a full-stack role, but I'm mostly working on a React Native mobile app right now.
 
 - **Research Assistant — [Hyperlight Micro Virtual Machine Manager](https://github.com/hyperlight-dev/hyperlight)**  
   Mostly doing porting and benchmarking work in Rust.
