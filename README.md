@@ -4,18 +4,18 @@ CS @ Columbia '26 · Web development + systems programming · Fedora Linux user 
 
 ## Currently
 - **Software Engineer Intern, Techneosis**  
-  This is a full-stack role, but I'm mostly working on a React Native mobile app right now.
+  Doing full-stack design, implementation, and maintenance work across a Django backend and React Native mobile app.
 
 - **Research Assistant — [Hyperlight Micro Virtual Machine Manager](https://github.com/hyperlight-dev/hyperlight)**  
   Doing porting and benchmarking work in Rust.
 
 - **CS Undergrad @ Columbia**  
-  Right now I'm taking Distributed Systems, CS Theory, Calc-Based Stats, and Ancient Philosophy.
+  Right now I'm taking Computer Networks, C++ for C Programmers, Masterpieces of Western Art, and Ancient Near Eastern literature.
 
 - **Reading Judith Herrin's [History of Byzantium](https://press.princeton.edu/books/paperback/9780691143699/byzantium).**
 
 ## Tech Stack
-**Languages:** Python, Java, C, C++, Rust, JavaScript/TypeScript  
+**Languages:** Python, Java, C, C++, Rust, Go, JavaScript/TypeScript  
 **Frontend:** React, Next.js, Vite, HTML/CSS  
 **Backend:** Django, FastAPI, ASP.NET, MySQL  
 **Tools:** Git, GitHub, AWS (EC2), Linux, Neovim, Expo, Postman
