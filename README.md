@@ -10,7 +10,7 @@ CS @ Columbia '26 · Web development + systems programming · Fedora Linux user 
   Doing porting and benchmarking work in Rust.
 
 - **CS Undergrad @ Columbia**  
-  Right now I'm taking Computer Networks, C++ for C Programmers, Masterpieces of Western Art, and Ancient Near Eastern literature.
+  Right now I'm taking Computer Networks, Advanced Systems Programming, Masterpieces of Western Art, and Ancient Near Eastern literature.
 
 - **Reading Judith Herrin's [History of Byzantium](https://press.princeton.edu/books/paperback/9780691143699/byzantium).**
 
