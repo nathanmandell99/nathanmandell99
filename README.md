@@ -6,9 +6,6 @@ CS @ Columbia '26 · Incoming SWE @ IBM · Fedora Linux user · Vim enjoyer · L
 - **Software Engineer Intern, Techneosis**  
   Doing full-stack design, implementation, and maintenance work across a Django backend and React Native mobile app.
 
-- **Research Assistant — [Hyperlight Micro Virtual Machine Manager](https://github.com/hyperlight-dev/hyperlight)**  
-  Doing porting and benchmarking work in Rust.
-
 - **CS Undergrad @ Columbia**  
   Right now I'm taking Computer Networks, Advanced Systems Programming, Masterpieces of Western Art, and Ancient Near Eastern literature.
 
