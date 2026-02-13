@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nathan
 
-CS @ Columbia '26 · Web development + systems programming · Fedora Linux user · Vim enjoyer · Learning Italian 🇮🇹
+CS @ Columbia '26 · Incoming SWE @ IBM · Fedora Linux user · Vim enjoyer · Learning Italian 🇮🇹
 
 ## Currently
 - **Software Engineer Intern, Techneosis**  
